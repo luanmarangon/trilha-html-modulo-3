@@ -16,4 +16,5 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
-
+## Conclusão
+Realizado um site replicando a Wikipédia, de forma simples para desenvolvimento do aprendizado na [Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer).
